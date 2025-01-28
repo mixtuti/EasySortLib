@@ -1,0 +1,16 @@
+{
+    "name": "EasySortSample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c4226906aded9ce46b766cd20572fcb2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

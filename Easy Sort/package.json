@@ -1,0 +1,8 @@
+{
+  "name": "jp.mixtuti.easy_sort",
+  "author": "mixtuti",
+  "version": "0.0.1",
+  "displayName": "Easy Sort",
+  "description": "System for Sort on the Unity",
+  "unity": "2022.3"
+}
